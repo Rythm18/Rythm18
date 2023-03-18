@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ridham Khandar
-- 👀 I’m interested in Open Source, AI/ML
-- 🌱 I’m currently learning Java,Python
-- 📫 
+- 👀 Learning DevOps, MERN Stack
+- 🌱 I Love Communities and Networking
 
 <!---
 Rythm18/Rythm18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
