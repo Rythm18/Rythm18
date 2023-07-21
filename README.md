@@ -15,6 +15,12 @@ I am currently a third year computer enginnering student gaining experience in b
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rythm18&layout=compact)
 
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/Rythm18/count.svg)
 
 <!---
