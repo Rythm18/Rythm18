@@ -3,7 +3,8 @@
 
 I am currently a third year computer enginnering student gaining experience in backend and DevOps.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rythm18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rythm18&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
+
 
 ### More about me
 - 👋 Hi, I’m Ridham Khandar
@@ -11,9 +12,7 @@ I am currently a third year computer enginnering student gaining experience in b
 - 🌱 I Love Communities and Networking
 
 
-![Ridham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rythm18&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rythm18&layout=compact)
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
@@ -29,9 +28,38 @@ I am currently a third year computer enginnering student gaining experience in b
 10. 🗣 Commented on [#6786](https://github.com/mindsdb/mindsdb/pull/6786#issuecomment-1623575885) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
 <!--END_SECTION:activity-->
 
-## Visitor Count
+ <hr>
 
-![Visitor Count](https://profile-counter.glitch.me/Rythm18/count.svg)
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Rythm18}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Rythm18}/count.svg)  
+  
+</a>
+
+<hr>
+
+# Github Activity📊:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Rythm18&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rythm18&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rythm18&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  </td>
+  </tr>
+</table>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rythm18&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr>
+</table>
 
 <!---
 Rythm18/Rythm18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
