@@ -39,8 +39,8 @@ I am currently a third year computer enginnering student gaining experience in b
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#27](https://github.com/ankitkumarpandey233/placementhelper/issues/27) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
-2. ❗ Opened issue [#26](https://github.com/ankitkumarpandey233/placementhelper/issues/26) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+1. 🎉 Merged PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+2. 💪 Opened PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 3. 🎉 Merged PR [#25](https://github.com/ankitkumarpandey233/placementhelper/pull/25) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 4. 🎉 Merged PR [#24](https://github.com/ankitkumarpandey233/placementhelper/pull/24) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 5. 💪 Opened PR [#24](https://github.com/ankitkumarpandey233/placementhelper/pull/24) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
