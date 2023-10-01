@@ -39,11 +39,11 @@ I am currently a third year computer enginnering student gaining experience in b
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/118) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-2. 🎉 Merged PR [#29](https://github.com/ankitkumarpandey233/placementhelper/pull/29) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
-3. 🎉 Merged PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
-4. 💪 Opened PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
-5. 💪 Opened PR [#24](https://github.com/ankitkumarpandey233/placementhelper/pull/24) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+1. 💪 Opened PR [#3](https://github.com/LitoMore/honeypotoberfest/pull/3) in [LitoMore/honeypotoberfest](https://github.com/LitoMore/honeypotoberfest)
+2. 💪 Opened PR [#118](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/118) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+3. 🎉 Merged PR [#29](https://github.com/ankitkumarpandey233/placementhelper/pull/29) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+4. 🎉 Merged PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+5. 💪 Opened PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 6. 🎉 Merged PR [#23](https://github.com/ankitkumarpandey233/placementhelper/pull/23) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 7. 💪 Opened PR [#23](https://github.com/ankitkumarpandey233/placementhelper/pull/23) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 8. 🎉 Merged PR [#22](https://github.com/ankitkumarpandey233/placementhelper/pull/22) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
