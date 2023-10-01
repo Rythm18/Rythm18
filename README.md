@@ -87,8 +87,9 @@ I am currently a third year computer enginnering student gaining experience in b
 
 <hr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ <h2>📌 Holopin Badges</h3>
+  
+ [![An image of @boltjazz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rythm18)](https://holopin.io/@rythm18)
 
 <!---
 Rythm18/Rythm18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
