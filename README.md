@@ -39,16 +39,16 @@ I am currently a third year computer enginnering student gaining experience in b
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/183#issuecomment-1742388237) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-2. 💪 Opened PR [#183](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/183) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-3. ❌ Closed PR [#118](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/118) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-4. ❌ Closed PR [#3](https://github.com/LitoMore/honeypotoberfest/pull/3) in [LitoMore/honeypotoberfest](https://github.com/LitoMore/honeypotoberfest)
-5. 💪 Opened PR [#22](https://github.com/Boltjazz/Hacktober23/pull/22) in [Boltjazz/Hacktober23](https://github.com/Boltjazz/Hacktober23)
-6. 💪 Opened PR [#3](https://github.com/LitoMore/honeypotoberfest/pull/3) in [LitoMore/honeypotoberfest](https://github.com/LitoMore/honeypotoberfest)
-7. 💪 Opened PR [#118](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/118) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
-8. 🎉 Merged PR [#29](https://github.com/ankitkumarpandey233/placementhelper/pull/29) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
-9. 🎉 Merged PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
-10. 💪 Opened PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+1. 💪 Opened PR [#30](https://github.com/ankitkumarpandey233/placementhelper/pull/30) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+2. 🗣 Commented on [#183](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/183#issuecomment-1742388237) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+3. 💪 Opened PR [#183](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/183) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+4. ❌ Closed PR [#118](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/118) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+5. ❌ Closed PR [#3](https://github.com/LitoMore/honeypotoberfest/pull/3) in [LitoMore/honeypotoberfest](https://github.com/LitoMore/honeypotoberfest)
+6. 💪 Opened PR [#22](https://github.com/Boltjazz/Hacktober23/pull/22) in [Boltjazz/Hacktober23](https://github.com/Boltjazz/Hacktober23)
+7. 💪 Opened PR [#3](https://github.com/LitoMore/honeypotoberfest/pull/3) in [LitoMore/honeypotoberfest](https://github.com/LitoMore/honeypotoberfest)
+8. 💪 Opened PR [#118](https://github.com/Ananyasingh2002/Hacktoberfest2023/pull/118) in [Ananyasingh2002/Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023)
+9. 🎉 Merged PR [#29](https://github.com/ankitkumarpandey233/placementhelper/pull/29) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
+10. 🎉 Merged PR [#28](https://github.com/ankitkumarpandey233/placementhelper/pull/28) in [ankitkumarpandey233/placementhelper](https://github.com/ankitkumarpandey233/placementhelper)
 <!--END_SECTION:activity-->
 
 <hr>
