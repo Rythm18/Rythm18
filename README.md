@@ -8,7 +8,7 @@ I am currently a third year computer enginnering student gaining experience in b
 
 ### More about me
 - 👋 Hi, I’m Ridham Khandar
-- 👀 Learning DevOps, MERN Stack
+- 👀 Learning Full Stack Devlopment
 - 🌱 I Love Communities and Networking
 
 
