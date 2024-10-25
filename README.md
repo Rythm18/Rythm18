@@ -1,15 +1,15 @@
 
 ## Hello Everyone 😁 
 
-I am currently a third year computer enginnering student gaining experience in backend and DevOps.
+I am a final year computer enginnering student gaining experience in full stack development.
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rythm18&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
 
 
 ### More about me
 - 👋 Hi, I’m Ridham Khandar
-- 👀 Learning Full Stack Devlopment
-- 🌱 I Love Communities and Networking
+- 👀 Full Stack Dev
+- 🌱 I Love goign through large codebases and learn how they structured and work
 
 
 <hr>
